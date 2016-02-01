@@ -1,3 +1,6 @@
+#basic exampe from offical TensorFlow tutorial
+# https://www.tensorflow.org/versions/0.6.0/tutorials/mnist/pros/index.html#deep-mnist-for-experts
+
 import input_data
 
 mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
